@@ -1,0 +1,9 @@
+#alarmbox h1 {
+    background-color: red;
+    color: white;
+    position: sticky;
+    top: auto;
+    margin: 0px;
+    margin-bottom: 10px;
+    font-size: 3vh;
+}
